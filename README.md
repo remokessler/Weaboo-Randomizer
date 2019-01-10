@@ -6,4 +6,5 @@ Skribleeeeeezzz
 * Download zip
 * extract datas
 * git gud
-* execute .exe file in extracted folder
+* if windof is used: execute .exe file in extracted folder
+* if macool is used: execute .app file as admin
